@@ -1,4 +1,3 @@
-
 var config = require('./config/config')();
 var http = require('http');
 var app  = require('./config/express')();
