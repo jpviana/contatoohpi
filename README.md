@@ -1,7 +1,4 @@
-# mean-livro-codigo
-Não esqueça de executar no console os comandos:
+# PI
 
-npm install
-bower install
 
-Não esqueça de alterar os arquivos passport.js com seu CLIENT_ID e CLIENT_SECRET.
+[![Build Status](https://travis-ci.org/jpviana/contatoohpi.svg)](https://travis-ci.org/jpviana/contatoohpi)
