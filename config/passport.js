@@ -1,4 +1,5 @@
 var config = require('./config')();
+
 var passport = require('passport');
 var GitHubStrategy = require('passport-github').Strategy;
 var findOrCreate = require('mongoose-findorcreate');

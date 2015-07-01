@@ -26,5 +26,9 @@ describe("ContatoController",function(){
 			});
 			$httpBackend.flush();
 			expect($scope.contato._id).toBeUndefined();
+<<<<<<< HEAD
 		}));*/
+=======
+		}));*/ 
+>>>>>>> f78d4d92f5ace4b702c691c5508677cf181f9a26
 });
