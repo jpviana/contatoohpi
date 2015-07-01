@@ -10,7 +10,7 @@ exports.config = {
 	'build': config.travisBuild
 },
 
-specs:['../test/e2e/**/*.js'],
+specs: ['../test/e2e/**/*Spec.js'],
 
 exports.config = {
 	onPrepare:function() {
