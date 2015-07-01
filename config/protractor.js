@@ -12,7 +12,6 @@ exports.config = {
 
 specs: ['../test/e2e/**/*Spec.js'],
 
-exports.config = {
 	onPrepare:function() {
 		browser.driver.get('http://localhost:3000');
 		browser.sleep(500);
